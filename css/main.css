@@ -146,8 +146,8 @@
 	max-width: 200px;
 	min-height: 20px;
 	max-height: 50px;
-	font-size: 30px;
-	font-family: "楷体";
+    font-size: 42px;
+    font-family: Chiller;
 	mask-size: contain;
 	transition: background-color 0.5s ease-in-out;
 }
